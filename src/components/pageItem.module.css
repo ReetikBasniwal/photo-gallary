@@ -1,0 +1,32 @@
+.itemContainer{
+    width: fit-content;
+    height: 8em;
+    display: flex;
+    margin: 2em 0 2em 2em;
+}
+
+.ItemImg {
+    width: 12em;
+    height: 100%;
+}
+
+.ItemImg > img {
+    height: 100%;
+    width: 100%;
+}
+
+.rightDiv {
+    display: flex;
+    align-items: center;
+    font-family: Georgia, serif;
+    padding-left: 1em;
+}
+
+.rightDiv > i{
+    font-size: 1.5em;
+    margin-bottom: 2%;
+    cursor: pointer;
+}
+
+/* color: #b7d2f4; */
+/* color: #2c86f3; */
